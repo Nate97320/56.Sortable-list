@@ -2,7 +2,7 @@
 
 Display a scrambled list that can be sorted with drag and drop
 
-## Project Specifications
+# Project Specifications
 
 - Create an ordered list (Top 10 richest people)
 - Scramble list items randomly
